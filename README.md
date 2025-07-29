@@ -40,6 +40,14 @@
 
 脚本的参数非常高效率并且超级易用，请掌握参数的使用
 
+# 安装
+系统支持：Ubuntu，Debian，CentOS，推荐使用 Ubuntu 22，谨慎使用 CentOS，脚本可能无法正常运行！
+
+执行如下命令：
+```
+bash <(wget -qO- -o- https://git.io/v2ray.sh)
+```
+
 # 脚本说明
 
 [V2Ray 一键安装脚本](https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)
